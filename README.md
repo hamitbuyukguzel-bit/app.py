@@ -1,6 +1,6 @@
 """
 Language Learner Tracker
-Simple Flask app to track learners, their levels, and notes.
+Simple Flask app to track learners, their levels, and notes..
 
 Run:
     python app.py
